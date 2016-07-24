@@ -7,7 +7,7 @@ var Examples = React.createClass({
   render: function (){
     return (
       <div>
-      <p>I'm examples component</p>
+      <p>I'm examples component !</p>
       </div>
     );
   }
