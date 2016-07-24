@@ -14,6 +14,6 @@ app.use(function(req, res, next){
 app.use(express.static('app'));
 
 
-app.listen(3300, function(){
+app.listen(PORT, function(){
   console.log("Express server is run up port" + PORT);
 });
