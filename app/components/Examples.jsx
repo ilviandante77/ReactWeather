@@ -8,6 +8,7 @@ var Examples = React.createClass({
     return (
       <div>
       <p>I'm examples component !</p>
+      <p>Welcome to Examples page</p>
       </div>
     );
   }
